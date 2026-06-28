@@ -132,3 +132,22 @@ dist
 
 package-lock.json
 .svelte-kit
+
+# Original full-size 360 camera files (preserved locally, optimized WebP ships in static/)
+/360-images-original/
+# Runtime publish targets (committed to GitHub via the API, not from here)
+/static/uploads/
+/static/tours/
+
+# macOS metadata
+.DS_Store
+
+# Personal tour data — the app lets each user create & download their own tour, so the
+# sample panoramas / config stay local and are not shipped in the repo.
+/static/old-vedzisi/
+/static/thumbs/
+/static/preview/
+/static/tour.json
+
+# Leftover agent worktrees
+/.claude/worktrees/

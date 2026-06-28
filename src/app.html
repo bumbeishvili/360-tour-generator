@@ -10,8 +10,15 @@
 		minimum-scale=1.0, target-densitydpi=device-dpi" />
 		<link rel="shortcut icon"  type="image/x-icon" href="%sveltekit.assets%/favicon.png" />
 
+		<!-- Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-BPC62S5T34"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() { dataLayer.push(arguments); }
+			gtag('js', new Date());
 
-
+			gtag('config', 'G-BPC62S5T34');
+		</script>
 
 		%sveltekit.head%
 	</head>

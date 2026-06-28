@@ -1,18 +1,14 @@
 <script>
-	import Header from '$lib/Header.svelte';
 	import './styles.css';
 	import '../app.css';
 	import Meta from "$lib/Meta.svelte";
-	import Footer from '$lib//Footer.svelte';
 </script>
 
 <div class="app">
-	<Header />
 	<Meta />
 	<main class='w-full'>
 		<slot />
 	</main>
-	<Footer />
 </div>
 
 <style>
