@@ -1,0 +1,83 @@
+{
+  "start": 0,
+  "scenes": [
+    {
+      "name": "260606_165504156",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqyb463o-wgd0s2/0.webp",
+      "links": [
+        {
+          "yaw": -179.2,
+          "pitch": -19.6,
+          "rotation": 0,
+          "lookYaw": 22.2,
+          "lookPitch": -5,
+          "to": 2,
+          "configured": true
+        },
+        {
+          "yaw": -131,
+          "pitch": -12.7,
+          "rotation": 0,
+          "lookYaw": 36.3,
+          "lookPitch": -5,
+          "to": 3,
+          "configured": true
+        },
+        {
+          "yaw": 143.5,
+          "pitch": -28.4,
+          "rotation": 0,
+          "lookYaw": 104.8,
+          "lookPitch": -5,
+          "to": 1,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_165633829",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqyb463o-wgd0s2/1.webp",
+      "links": [
+        {
+          "yaw": -75.2,
+          "pitch": -19.7,
+          "rotation": 0,
+          "lookYaw": -36.5,
+          "lookPitch": -5,
+          "to": 0,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_165840997",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqyb463o-wgd0s2/2.webp",
+      "links": [
+        {
+          "yaw": -157.8,
+          "pitch": -12.8,
+          "rotation": 0,
+          "lookYaw": 0.8,
+          "lookPitch": -5,
+          "to": 0,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_165917928",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqyb463o-wgd0s2/3.webp",
+      "links": [
+        {
+          "yaw": -143.7,
+          "pitch": -21,
+          "rotation": 0,
+          "lookYaw": 49,
+          "lookPitch": -5,
+          "to": 0,
+          "configured": true
+        }
+      ]
+    }
+  ]
+}
