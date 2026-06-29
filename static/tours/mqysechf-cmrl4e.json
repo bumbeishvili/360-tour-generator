@@ -1,0 +1,743 @@
+{
+  "start": 16,
+  "scenes": [
+    {
+      "name": "260606_165504156",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/0.webp",
+      "links": [
+        {
+          "yaw": -0.5,
+          "pitch": -21.4,
+          "rotation": 0,
+          "lookYaw": 36.1,
+          "lookPitch": -5,
+          "to": 10,
+          "configured": true
+        },
+        {
+          "yaw": 38.3,
+          "pitch": -21.7,
+          "rotation": 0,
+          "lookYaw": 38.6,
+          "lookPitch": -5,
+          "to": 8,
+          "configured": true
+        },
+        {
+          "yaw": -177.5,
+          "pitch": -19.3,
+          "rotation": 0,
+          "lookYaw": 21.6,
+          "lookPitch": -5,
+          "to": 3,
+          "configured": true
+        },
+        {
+          "yaw": -65.4,
+          "pitch": 40.9,
+          "rotation": 0,
+          "lookYaw": -2.7,
+          "lookPitch": -5,
+          "to": 7,
+          "configured": true
+        },
+        {
+          "yaw": 134.5,
+          "pitch": -26.1,
+          "rotation": 0,
+          "lookYaw": 107.5,
+          "lookPitch": -5,
+          "to": 1,
+          "configured": true
+        },
+        {
+          "yaw": -135.3,
+          "pitch": -34.6,
+          "rotation": 0,
+          "lookYaw": 3.5,
+          "lookPitch": -5,
+          "to": 2,
+          "configured": true
+        },
+        {
+          "yaw": -131.1,
+          "pitch": -12.5,
+          "rotation": 0,
+          "lookYaw": 70.3,
+          "lookPitch": -5,
+          "to": 4,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_165633829",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/1.webp",
+      "links": [
+        {
+          "yaw": -72.5,
+          "pitch": -22.9,
+          "rotation": 0,
+          "lookYaw": -45.5,
+          "lookPitch": -5,
+          "to": 0,
+          "configured": true
+        },
+        {
+          "yaw": -87.7,
+          "pitch": -14.6,
+          "rotation": 0,
+          "lookYaw": 33.6,
+          "lookPitch": -5,
+          "to": 2,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_165750432",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/2.webp",
+      "links": [
+        {
+          "yaw": -8.6,
+          "pitch": -21.4,
+          "rotation": 0,
+          "lookYaw": 36.5,
+          "lookPitch": -5,
+          "to": 4,
+          "configured": true
+        },
+        {
+          "yaw": -88.7,
+          "pitch": -14.5,
+          "rotation": 0,
+          "lookYaw": 13.3,
+          "lookPitch": -5,
+          "to": 3,
+          "configured": true
+        },
+        {
+          "yaw": 132.6,
+          "pitch": 39.1,
+          "rotation": 0,
+          "lookYaw": -23.1,
+          "lookPitch": -5,
+          "to": 7,
+          "configured": true
+        },
+        {
+          "yaw": 103,
+          "pitch": -33.3,
+          "rotation": 0,
+          "lookYaw": -40.9,
+          "lookPitch": -5,
+          "to": 6,
+          "configured": true
+        },
+        {
+          "yaw": 177.4,
+          "pitch": -11.5,
+          "rotation": 0,
+          "lookYaw": 39.6,
+          "lookPitch": -5,
+          "to": 8,
+          "configured": true
+        },
+        {
+          "yaw": -146.4,
+          "pitch": -16.4,
+          "rotation": 0,
+          "lookYaw": 92.3,
+          "lookPitch": -5,
+          "to": 1,
+          "configured": true
+        },
+        {
+          "yaw": -176.5,
+          "pitch": -27.6,
+          "rotation": 0,
+          "lookYaw": 44.7,
+          "lookPitch": -5,
+          "to": 0,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_165840997",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/3.webp",
+      "links": [
+        {
+          "yaw": -158.4,
+          "pitch": -14.9,
+          "rotation": 0,
+          "lookYaw": 2.5,
+          "lookPitch": -5,
+          "to": 0,
+          "configured": true
+        },
+        {
+          "yaw": -166.7,
+          "pitch": -18.6,
+          "rotation": 0,
+          "lookYaw": 91.3,
+          "lookPitch": -5,
+          "to": 2,
+          "configured": true
+        },
+        {
+          "yaw": -167.8,
+          "pitch": -9,
+          "rotation": 0,
+          "lookYaw": -54.4,
+          "lookPitch": -5,
+          "to": 6,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_165917928",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/4.webp",
+      "links": [
+        {
+          "yaw": -179.4,
+          "pitch": -22.6,
+          "rotation": 0,
+          "lookYaw": -10.6,
+          "lookPitch": -5,
+          "to": 5,
+          "configured": true
+        },
+        {
+          "yaw": -143.5,
+          "pitch": -22.4,
+          "rotation": 0,
+          "lookYaw": 171.4,
+          "lookPitch": -5,
+          "to": 2,
+          "configured": true
+        },
+        {
+          "yaw": -141.8,
+          "pitch": -14.9,
+          "rotation": 0,
+          "lookYaw": -12.5,
+          "lookPitch": -5,
+          "to": 6,
+          "configured": true
+        },
+        {
+          "yaw": -109.7,
+          "pitch": -28.2,
+          "rotation": 0,
+          "lookYaw": 48.9,
+          "lookPitch": -5,
+          "to": 0,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_170005255",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/5.webp",
+      "links": [
+        {
+          "yaw": 169.4,
+          "pitch": -25.4,
+          "rotation": 0,
+          "lookYaw": 0.6,
+          "lookPitch": -5,
+          "to": 4,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_170057062",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/6.webp",
+      "links": [
+        {
+          "yaw": 139.1,
+          "pitch": -28.2,
+          "rotation": 0,
+          "lookYaw": -77,
+          "lookPitch": -5,
+          "to": 2,
+          "configured": true
+        },
+        {
+          "yaw": 167.5,
+          "pitch": -14.5,
+          "rotation": 0,
+          "lookYaw": 38.2,
+          "lookPitch": -5,
+          "to": 4,
+          "configured": true
+        },
+        {
+          "yaw": 125.6,
+          "pitch": -9.9,
+          "rotation": 0,
+          "lookYaw": 12.2,
+          "lookPitch": -5,
+          "to": 3,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_170151002",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/7.webp",
+      "links": [
+        {
+          "yaw": 177.3,
+          "pitch": -20.9,
+          "rotation": 0,
+          "lookYaw": 114.6,
+          "lookPitch": -5,
+          "to": 0,
+          "configured": true
+        },
+        {
+          "yaw": 156.9,
+          "pitch": -21.3,
+          "rotation": 0,
+          "lookYaw": -47.4,
+          "lookPitch": -5,
+          "to": 2,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_170322703",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/8.webp",
+      "links": [
+        {
+          "yaw": -59.9,
+          "pitch": -16.6,
+          "rotation": 0,
+          "lookYaw": 18.1,
+          "lookPitch": -5,
+          "to": 10,
+          "configured": true
+        },
+        {
+          "yaw": -141.4,
+          "pitch": -15,
+          "rotation": 0,
+          "lookYaw": -141.7,
+          "lookPitch": -5,
+          "to": 0,
+          "configured": true
+        },
+        {
+          "yaw": -140.4,
+          "pitch": -11.8,
+          "rotation": 0,
+          "lookYaw": -2.6,
+          "lookPitch": -5,
+          "to": 2,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_170400998",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/9.webp",
+      "links": [
+        {
+          "yaw": 162.6,
+          "pitch": -9.1,
+          "rotation": 0,
+          "lookYaw": 11.2,
+          "lookPitch": -5,
+          "to": 10,
+          "configured": true
+        },
+        {
+          "yaw": -2.8,
+          "pitch": -1.1,
+          "rotation": 0,
+          "lookYaw": 56,
+          "lookPitch": -5,
+          "to": 22,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_170441186",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/10.webp",
+      "links": [
+        {
+          "yaw": -18.4,
+          "pitch": -33.8,
+          "rotation": 0,
+          "lookYaw": -144.8,
+          "lookPitch": -5,
+          "to": 16,
+          "configured": true
+        },
+        {
+          "yaw": -143.9,
+          "pitch": -10.8,
+          "rotation": 0,
+          "lookYaw": 179.5,
+          "lookPitch": -5,
+          "to": 0,
+          "configured": true
+        },
+        {
+          "yaw": -161.9,
+          "pitch": -16.1,
+          "rotation": 0,
+          "lookYaw": 120.1,
+          "lookPitch": -5,
+          "to": 8,
+          "configured": true
+        },
+        {
+          "yaw": -168.8,
+          "pitch": -7.5,
+          "rotation": 0,
+          "lookYaw": -17.4,
+          "lookPitch": -5,
+          "to": 9,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_170527812",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/11.webp",
+      "links": [
+        {
+          "yaw": 53.6,
+          "pitch": -20.9,
+          "rotation": 0,
+          "lookYaw": -80.6,
+          "lookPitch": -5,
+          "to": 16,
+          "configured": true
+        },
+        {
+          "yaw": -129.7,
+          "pitch": -18.8,
+          "rotation": 0,
+          "lookYaw": -30.9,
+          "lookPitch": -5,
+          "to": 12,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_170621398",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/12.webp",
+      "links": [
+        {
+          "yaw": -19.6,
+          "pitch": -27,
+          "rotation": 0,
+          "lookYaw": 22.2,
+          "lookPitch": -5,
+          "to": 15,
+          "configured": true
+        },
+        {
+          "yaw": 67.2,
+          "pitch": -33.8,
+          "rotation": 0,
+          "lookYaw": 64.2,
+          "lookPitch": -5,
+          "to": 14,
+          "configured": true
+        },
+        {
+          "yaw": -138.1,
+          "pitch": -41.9,
+          "rotation": 0,
+          "lookYaw": 23.1,
+          "lookPitch": -5,
+          "to": 13,
+          "configured": true
+        },
+        {
+          "yaw": 149.1,
+          "pitch": -22.7,
+          "rotation": 0,
+          "lookYaw": 50.3,
+          "lookPitch": -5,
+          "to": 11,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_170658428",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/13.webp",
+      "links": [
+        {
+          "yaw": -156.9,
+          "pitch": -35.4,
+          "rotation": 0,
+          "lookYaw": 41.9,
+          "lookPitch": -5,
+          "to": 12,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_170746835",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/14.webp",
+      "links": [
+        {
+          "yaw": -115.8,
+          "pitch": -25.6,
+          "rotation": 0,
+          "lookYaw": -112.8,
+          "lookPitch": -5,
+          "to": 12,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_170824897",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/15.webp",
+      "links": [
+        {
+          "yaw": -157.8,
+          "pitch": -26,
+          "rotation": 0,
+          "lookYaw": 160.4,
+          "lookPitch": -5,
+          "to": 12,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_170918852",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/16.webp",
+      "links": [
+        {
+          "yaw": 48.1,
+          "pitch": -8.2,
+          "rotation": 0,
+          "lookYaw": -162.8,
+          "lookPitch": -5,
+          "to": 18,
+          "configured": true
+        },
+        {
+          "yaw": 35.2,
+          "pitch": 17.8,
+          "rotation": 0,
+          "lookYaw": 161.6,
+          "lookPitch": -5,
+          "to": 10,
+          "configured": true
+        },
+        {
+          "yaw": 140.4,
+          "pitch": -2.8,
+          "rotation": 0,
+          "lookYaw": -29.9,
+          "lookPitch": -5,
+          "to": 20,
+          "configured": true
+        },
+        {
+          "yaw": 99.4,
+          "pitch": -8.6,
+          "rotation": 0,
+          "lookYaw": -126.4,
+          "lookPitch": -5,
+          "to": 11,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_171047087",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/17.webp",
+      "links": [
+        {
+          "yaw": -115.5,
+          "pitch": -13.4,
+          "rotation": 0,
+          "lookYaw": 50.2,
+          "lookPitch": -5,
+          "to": 18,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_171128262",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/18.webp",
+      "links": [
+        {
+          "yaw": 17.2,
+          "pitch": -16.6,
+          "rotation": 0,
+          "lookYaw": -131.9,
+          "lookPitch": -5,
+          "to": 16,
+          "configured": true
+        },
+        {
+          "yaw": -129.8,
+          "pitch": -7.8,
+          "rotation": 0,
+          "lookYaw": 64.5,
+          "lookPitch": -5,
+          "to": 17,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_171235067",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/19.webp",
+      "links": [
+        {
+          "yaw": 126,
+          "pitch": -3.3,
+          "rotation": 0,
+          "lookYaw": 55.9,
+          "lookPitch": -5,
+          "to": 21,
+          "configured": true
+        },
+        {
+          "yaw": 68.7,
+          "pitch": 3.4,
+          "rotation": 0,
+          "lookYaw": 57,
+          "lookPitch": -5,
+          "to": 22,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_171540931",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/20.webp",
+      "links": [
+        {
+          "yaw": -59.4,
+          "pitch": -4.8,
+          "rotation": 0,
+          "lookYaw": -31.9,
+          "lookPitch": -5,
+          "to": 21,
+          "configured": true
+        },
+        {
+          "yaw": 150.1,
+          "pitch": -10.2,
+          "rotation": 0,
+          "lookYaw": -39.6,
+          "lookPitch": -5,
+          "to": 16,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_171623669",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/21.webp",
+      "links": [
+        {
+          "yaw": 148.1,
+          "pitch": -13.4,
+          "rotation": 0,
+          "lookYaw": 120.6,
+          "lookPitch": -5,
+          "to": 20,
+          "configured": true
+        },
+        {
+          "yaw": -124.1,
+          "pitch": -6.1,
+          "rotation": 0,
+          "lookYaw": -54,
+          "lookPitch": -5,
+          "to": 19,
+          "configured": true
+        },
+        {
+          "yaw": -68.1,
+          "pitch": 3.2,
+          "rotation": 0,
+          "lookYaw": 20.4,
+          "lookPitch": -5,
+          "to": 22,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_171755785",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/22.webp",
+      "links": [
+        {
+          "yaw": 34.9,
+          "pitch": -0.9,
+          "rotation": 0,
+          "lookYaw": -58.5,
+          "lookPitch": -5,
+          "to": 23,
+          "configured": true
+        },
+        {
+          "yaw": -124,
+          "pitch": 1.7,
+          "rotation": 0,
+          "lookYaw": 177.2,
+          "lookPitch": -5,
+          "to": 9,
+          "configured": true
+        },
+        {
+          "yaw": -123,
+          "pitch": -12.3,
+          "rotation": 0,
+          "lookYaw": -111.3,
+          "lookPitch": -5,
+          "to": 19,
+          "configured": true
+        },
+        {
+          "yaw": -159.6,
+          "pitch": -7.9,
+          "rotation": 0,
+          "lookYaw": 111.9,
+          "lookPitch": -5,
+          "to": 21,
+          "configured": true
+        }
+      ]
+    },
+    {
+      "name": "260606_171847175",
+      "image": "https://raw.githubusercontent.com/bumbeishvili/360-tour-generator/main/static/uploads/mqysechf-cmrl4e/23.webp",
+      "links": [
+        {
+          "yaw": 121.5,
+          "pitch": -17.4,
+          "rotation": 0,
+          "lookYaw": -145.1,
+          "lookPitch": -5,
+          "to": 22,
+          "configured": true
+        }
+      ]
+    }
+  ]
+}
