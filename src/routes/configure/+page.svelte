@@ -1,9 +1,8 @@
 <script>
 	import GraphConfig from '$lib/configure/GraphConfig.svelte';
+	import Meta from '$lib/Meta.svelte';
 </script>
 
-<svelte:head>
-	<title>Configure tour</title>
-</svelte:head>
+<Meta title="Configure your tour — 360° Tour Generator" description="Link your rooms and choose where the tour begins." noindex />
 
 <GraphConfig />

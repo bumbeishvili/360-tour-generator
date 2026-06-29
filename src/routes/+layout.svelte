@@ -1,11 +1,9 @@
 <script>
 	import './styles.css';
 	import '../app.css';
-	import Meta from "$lib/Meta.svelte";
 </script>
 
 <div class="app">
-	<Meta />
 	<main class='w-full'>
 		<slot />
 	</main>

@@ -1,6 +1,8 @@
 <script>
 	import { onMount } from 'svelte';
 	import { goto } from '$app/navigation';
+	import { page } from '$app/stores';
+	import Meta from '$lib/Meta.svelte';
 	import { processPanorama } from '$lib/create/imageProcessing.js';
 	import {
 		scenes,
@@ -85,10 +87,30 @@
 	}
 
 	$: canProceed = $scenes.length > 0 && !processing;
+
+	// Structured data so search engines understand this is a free, browser-based tool.
+	$: ldJson =
+		'<script type="application/ld+json">' +
+		JSON.stringify({
+			'@context': 'https://schema.org',
+			'@type': 'WebApplication',
+			name: '360° Tour Generator',
+			url: $page.url.origin + '/create',
+			description:
+				'Make a 360° virtual tour from your own photos and share it with a link — no account or install.',
+			applicationCategory: 'MultimediaApplication',
+			operatingSystem: 'Web',
+			offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' }
+		}) +
+		'<\/script>';
 </script>
 
+<Meta
+	title="360° Tour Generator — virtual tours from your own photos"
+	description="Upload your 360° photos, link the rooms together on a simple map, and share a virtual tour anyone can walk through in their browser. No account, nothing to install."
+/>
 <svelte:head>
-	<title>Create a 360 tour</title>
+	{@html ldJson}
 </svelte:head>
 
 <section class="create">
